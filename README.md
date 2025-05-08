@@ -39,7 +39,6 @@ Hosted on Vercel: [Demo](https://softsell-website-five.vercel.app/)
 
 3. **Navigation & Routing**
 
-   * “Get a Quote” button routes to a dummy `/quote` page
    * “Learn More” button scrolls to the “How It Works” section
 
 4. **Performance & Accessibility**
